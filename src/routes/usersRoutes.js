@@ -17,7 +17,7 @@ const validateData = [
  * @swagger
  * /api/users:
  *   get:
- *     summary: Получить список тасок
+ *     summary: получить пользователей
  *     description: Получение списка тасок из базы данных с возможностью сортировки.
  *     tags:
  *       - Users
